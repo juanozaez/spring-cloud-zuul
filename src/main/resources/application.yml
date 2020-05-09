@@ -1,0 +1,4 @@
+zuul:
+  routes:
+    users:
+      url: http://localhost:8090/user-service
